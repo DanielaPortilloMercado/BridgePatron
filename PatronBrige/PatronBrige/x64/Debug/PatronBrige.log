@@ -1,0 +1,6 @@
+﻿  PatronBrige.cpp
+PatronBrige.obj : error LNK2019: símbolo externo "public: __cdecl AdvancedRemoteControl::AdvancedRemoteControl(class Device1 *)" (??0AdvancedRemoteControl@@QEAA@PEAVDevice1@@@Z) sin resolver al que se hace referencia en la función main
+PatronBrige.obj : error LNK2019: símbolo externo "public: void __cdecl AdvancedRemoteControl::mute(void)" (?mute@AdvancedRemoteControl@@QEAAXXZ) sin resolver al que se hace referencia en la función main
+PatronBrige.obj : error LNK2019: símbolo externo "public: void __cdecl AdvancedRemoteControl::setMovie(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &)" (?setMovie@AdvancedRemoteControl@@QEAAXAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z) sin resolver al que se hace referencia en la función main
+PatronBrige.obj : error LNK2019: símbolo externo "public: void __cdecl AdvancedRemoteControl::setService(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &)" (?setService@AdvancedRemoteControl@@QEAAXAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z) sin resolver al que se hace referencia en la función main
+C:\Users\HP\source\repos\lab1204\lab1204\PatronBrige\x64\Debug\PatronBrige.exe : fatal error LNK1120: 4 externos sin resolver
